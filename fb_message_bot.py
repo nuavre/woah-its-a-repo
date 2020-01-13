@@ -1,4 +1,4 @@
-import random
+import random #useful for if I want to randomize the messages
 from flask import Flask, request
 from pymessenger.bot import Bot
 
